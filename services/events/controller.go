@@ -35,7 +35,7 @@ func (c *EventController) Create(ctx iris.Context) {
 }
 
 func (c *EventController) Update(ctx iris.Context) {
-	var e []Event
+	var e Event
 	var errPg error
 
 	err := ctx.ReadJSON(&e)
