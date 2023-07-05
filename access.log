@@ -1,0 +1,1835 @@
+{
+  "timestamp": "2023-07-02 16:42:08",
+  "latency": 62741143459,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n        \"id\": 1,\n        \"email\": \"IronMan@gmail.com\",\n        \"password\": \"Ironman\",\n        \"firstName\": \"André\",\n        \"middleName\": \"\",\n        \"lastName\": \"Leblanc\",\n        \"sexe\": \"M\"\n    },",
+  "bytes_received": 477,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:45:09",
+  "latency": 176146872167,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:18",
+  "latency": 249042,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:20",
+  "latency": 125292,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:20",
+  "latency": 287417,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:21",
+  "latency": 124250,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:22",
+  "latency": 231625,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:23",
+  "latency": 223000,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:46:57",
+  "latency": 144250,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": 1,\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 445,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 16:47:00",
+  "latency": 274833,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 481
+}
+{
+  "timestamp": "2023-07-02 17:18:33",
+  "latency": 1312000,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 592
+}
+{
+  "timestamp": "2023-07-02 17:19:11",
+  "latency": 140291,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 482,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 17:19:35",
+  "latency": 10944002000,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"email\": \"IronMan@gmail.com\",\n    \"p assword\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 482,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-02 17:19:49",
+  "latency": 4154007375,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 481,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 13:32:15",
+  "latency": 2369334,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 481,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 13:33:49",
+  "latency": 675917,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 691
+}
+{
+  "timestamp": "2023-07-03 13:35:41",
+  "latency": 925166,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"CreatedAt\": \"2023-07-03T00:00:00Z\",\n    \"UpdatedAt\": \"2023-07-03T00:00:00Z\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 563,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 13:37:00",
+  "latency": 49128907667,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"CreatedAt\": \"2023-07-03T00:00:00Z\",\n    \"UpdatedAt\": \"2023-07-03T00:00:00Z\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 563,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:03:39",
+  "latency": 4474916,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"CreatedAt\": \"2023-07-03T00:00:00Z\",\n    \"UpdatedAt\": \"2023-07-03T00:00:00Z\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 562,
+  "bytes_sent": 174
+}
+{
+  "timestamp": "2023-07-03 14:04:11",
+  "latency": 2745792,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 218
+}
+{
+  "timestamp": "2023-07-03 14:04:40",
+  "latency": 2005334,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 218
+}
+{
+  "timestamp": "2023-07-03 14:06:56",
+  "latency": 16355462042,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 174
+}
+{
+  "timestamp": "2023-07-03 14:16:44",
+  "latency": 4341917,
+  "code": 500,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 326
+}
+{
+  "timestamp": "2023-07-03 14:18:30",
+  "latency": 4198791,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:18:32",
+  "latency": 1497875,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:18:42",
+  "latency": 1952167,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:18:42",
+  "latency": 990917,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:18:45",
+  "latency": 2422084,
+  "code": 500,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 326
+}
+{
+  "timestamp": "2023-07-03 14:19:21",
+  "latency": 2415792,
+  "code": 400,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 250
+}
+{
+  "timestamp": "2023-07-03 14:19:23",
+  "latency": 502084,
+  "code": 400,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 250
+}
+{
+  "timestamp": "2023-07-03 14:19:48",
+  "latency": 2106416,
+  "code": 400,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 250
+}
+{
+  "timestamp": "2023-07-03 14:20:10",
+  "latency": 2981250,
+  "code": 400,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 257
+}
+{
+  "timestamp": "2023-07-03 14:21:38",
+  "latency": 2892583,
+  "code": 400,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 257
+}
+{
+  "timestamp": "2023-07-03 14:21:54",
+  "latency": 1441542,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 1702
+}
+{
+  "timestamp": "2023-07-03 14:32:56",
+  "latency": 3670167,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 126
+}
+{
+  "timestamp": "2023-07-03 14:33:11",
+  "latency": 2347459,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:33:27",
+  "latency": 1736000,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 14:33:58",
+  "latency": 1737667,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 14:35:24",
+  "latency": 60167240833,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan2@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 431,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 14:35:30",
+  "latency": 1698791,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 373
+}
+{
+  "timestamp": "2023-07-03 14:35:43",
+  "latency": 2105208,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 430,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:35:47",
+  "latency": 785417,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 620
+}
+{
+  "timestamp": "2023-07-03 14:36:15",
+  "latency": 4342125,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 620
+}
+{
+  "timestamp": "2023-07-03 14:36:42",
+  "latency": 4598250,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 620
+}
+{
+  "timestamp": "2023-07-03 14:36:56",
+  "latency": 642417,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan3@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"lastName\": \"Leblanc\",\n}",
+  "bytes_received": 394,
+  "bytes_sent": 276
+}
+{
+  "timestamp": "2023-07-03 14:37:12",
+  "latency": 2506833,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan3@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"lastName\": \"Leblanc\"\n}",
+  "bytes_received": 393,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:37:17",
+  "latency": 907458,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 841
+}
+{
+  "timestamp": "2023-07-03 14:37:57",
+  "latency": 5423792,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 870
+}
+{
+  "timestamp": "2023-07-03 14:38:27",
+  "latency": 4709709,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 841
+}
+{
+  "timestamp": "2023-07-03 14:39:01",
+  "latency": 4285750,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan4@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:39:05",
+  "latency": 1711541,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 1071
+}
+{
+  "timestamp": "2023-07-03 14:49:54",
+  "latency": 10092611791,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 14:49:58",
+  "latency": 1539625,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 1071
+}
+{
+  "timestamp": "2023-07-03 14:51:13",
+  "latency": 50513795292,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 14:51:27",
+  "latency": 9510081833,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 135
+}
+{
+  "timestamp": "2023-07-03 14:55:39",
+  "latency": 19060500,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 252
+}
+{
+  "timestamp": "2023-07-03 14:57:14",
+  "latency": 4342625,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 14:57:24",
+  "latency": 7248444833,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 252
+}
+{
+  "timestamp": "2023-07-03 14:58:26",
+  "latency": 7273708,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 262
+}
+{
+  "timestamp": "2023-07-03 14:58:30",
+  "latency": 1772250,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 262
+}
+{
+  "timestamp": "2023-07-03 14:58:51",
+  "latency": 6231250,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 255
+}
+{
+  "timestamp": "2023-07-03 14:58:54",
+  "latency": 878583,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 255
+}
+{
+  "timestamp": "2023-07-03 14:58:54",
+  "latency": 1864875,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 255
+}
+{
+  "timestamp": "2023-07-03 14:59:00",
+  "latency": 821584,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 255
+}
+{
+  "timestamp": "2023-07-03 14:59:20",
+  "latency": 3902042,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 14:59:21",
+  "latency": 1758500,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 245
+}
+{
+  "timestamp": "2023-07-03 15:00:40",
+  "latency": 4917084,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 407
+}
+{
+  "timestamp": "2023-07-03 15:01:43",
+  "latency": 4866500,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 352
+}
+{
+  "timestamp": "2023-07-03 15:02:20",
+  "latency": 5053042,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 352
+}
+{
+  "timestamp": "2023-07-03 15:02:21",
+  "latency": 1786083,
+  "code": 500,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(commit unexpectedly resulted in rollback)",
+  "bytes_sent": 352
+}
+{
+  "timestamp": "2023-07-03 15:03:00",
+  "latency": 5327458,
+  "code": 409,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 299
+}
+{
+  "timestamp": "2023-07-03 15:24:41",
+  "latency": 4999833,
+  "code": 200,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 76
+}
+{
+  "timestamp": "2023-07-03 15:24:46",
+  "latency": 1072000,
+  "code": 200,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 76
+}
+{
+  "timestamp": "2023-07-03 15:24:47",
+  "latency": 1674875,
+  "code": 200,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 76
+}
+{
+  "timestamp": "2023-07-03 15:26:45",
+  "latency": 21603853083,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan6@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:27:46",
+  "latency": 5185088500,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 15:27:54",
+  "latency": 2175208,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 588
+}
+{
+  "timestamp": "2023-07-03 15:31:17",
+  "latency": 3445834,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 588
+}
+{
+  "timestamp": "2023-07-03 15:31:31",
+  "latency": 11222340083,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:32:56",
+  "latency": 4994791,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:32:56",
+  "latency": 1605250,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:32:57",
+  "latency": 1110458,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:32:58",
+  "latency": 2369917,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:32:58",
+  "latency": 1518083,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:37",
+  "latency": 4955167,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:41",
+  "latency": 837583,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:42",
+  "latency": 1333667,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:43",
+  "latency": 1439292,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:45",
+  "latency": 837958,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:46",
+  "latency": 1263167,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:47",
+  "latency": 1214459,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:47",
+  "latency": 1239875,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:49",
+  "latency": 671042,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:49",
+  "latency": 1151334,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:50",
+  "latency": 1155583,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 15:33:50",
+  "latency": 716292,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 20:32:53",
+  "latency": 8033542,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 20:33:39",
+  "latency": 5137792,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:33:45",
+  "latency": 1561792,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:33:46",
+  "latency": 901666,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:33:47",
+  "latency": 1244916,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:33:47",
+  "latency": 871625,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:33:48",
+  "latency": 1307459,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:33:49",
+  "latency": 1820167,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:34:07",
+  "latency": 1041625,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 588
+}
+{
+  "timestamp": "2023-07-03 20:35:16",
+  "latency": 5813667,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 588
+}
+{
+  "timestamp": "2023-07-03 20:35:20",
+  "latency": 3327083,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:35:21",
+  "latency": 652250,
+  "code": 201,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-03 20:37:33",
+  "latency": 5055875,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 20:37:43",
+  "latency": 1508916,
+  "code": 400,
+  "method": "POST",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"email\": \"IronMan5@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"André\",\n    \"middleName\": null,\n    \"lastName\": \"Leblanc\",\n    \"sex\": \"M\"\n}",
+  "bytes_received": 433,
+  "bytes_sent": 305
+}
+{
+  "timestamp": "2023-07-03 21:00:35",
+  "latency": 29274992542,
+  "code": 202,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"Andréeeee\",\n    \"middleName\": \"\",\n    \"lastName\": \"Leblancccccc\",\n    \"sexe\": \"M\"\n}",
+  "bytes_received": 489,
+  "bytes_sent": 82
+}
+{
+  "timestamp": "2023-07-03 21:01:56",
+  "latency": 2727417,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 833
+}
+{
+  "timestamp": "2023-07-03 21:02:23",
+  "latency": 4468574625,
+  "code": 400,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "{\n    \"id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n    \"email\": \"IronMan@gmail.com\",\n    \"password\": \"Ironman\",\n    \"firstName\": \"Andréeeee\",\n    \"middleName\": \"zzzz\",\n    \"lastName\": \"Leblancccccc\",\n    \"sexe\": \"F\"\n}",
+  "bytes_received": 493,
+  "bytes_sent": 315
+}
+{
+  "timestamp": "2023-07-03 21:11:21",
+  "latency": 5757958,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 833
+}
+{
+  "timestamp": "2023-07-03 21:11:26",
+  "latency": 730333,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 833
+}
+{
+  "timestamp": "2023-07-03 21:11:29",
+  "latency": 1351375,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 833
+}
+{
+  "timestamp": "2023-07-03 21:11:30",
+  "latency": 1118250,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 833
+}
+{
+  "timestamp": "2023-07-03 21:22:49",
+  "latency": 19075413292,
+  "code": 200,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "    {\n        \"Id\": \"d3ff8e58-5adb-4fff-af26-4284458f06f0\",\n        \"CreatedAt\": \"2023-07-03T15:27:41.763434Z\",\n        \"UpdatedAt\": \"2023-07-03T15:27:41.763438Z\",\n        \"email\": \"IronMan5@gmail.com\",\n        \"password\": \"Ironman\",\n        \"firstName\": \"André\",\n        \"middleName\": \"ssssssssss\",\n        \"lastName\": \"Leblanc\",\n        \"sex\": \"M\"\n    }",
+  "bytes_received": 630,
+  "bytes_sent": 76
+}
+{
+  "timestamp": "2023-07-03 21:25:06",
+  "latency": 50515032958,
+  "code": 200,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "    {\n        \"Id\": \"d3ff8e58-5adb-4fff-af26-4284458f06f0\",\n        \"CreatedAt\": \"2023-07-03T15:27:41.763434Z\",\n        \"UpdatedAt\": \"2023-07-03T15:27:41.763438Z\",\n        \"email\": \"IronMan5@gmail.com\",\n        \"password\": \"Ironman\",\n        \"firstName\": \"André\",\n        \"middleName\": \"ssssssssss\",\n        \"lastName\": \"Leblanc\",\n        \"sex\": \"M\"\n    }",
+  "bytes_received": 630,
+  "bytes_sent": 76
+}
+{
+  "timestamp": "2023-07-03 21:27:22",
+  "latency": 5229848958,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 21:31:42",
+  "latency": 2387125,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 21:31:43",
+  "latency": 1055750,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 21:31:46",
+  "latency": 1484833,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 21:31:47",
+  "latency": 806834,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 21:52:20",
+  "latency": 335170995417,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:01:47",
+  "latency": 563250625084,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:11:07",
+  "latency": 551841851625,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:13:04",
+  "latency": 112617798291,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:13:08",
+  "latency": 1247916,
+  "code": 400,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "    {\n        \"Id\": \"d3ff8e58-5adb-4fff-af26-4284458f06f0\",\n        \"email\": \"IronMan5@gmail.com\",\n        \"firstName\": \"André\",\n        \"middleName\": \"ssssssssss\",\n        \"lastName\": \"Leblanc\",\n        \"sex\": \"M\",\n    }",
+  "bytes_received": 496,
+  "bytes_sent": 274
+}
+{
+  "timestamp": "2023-07-03 22:14:48",
+  "latency": 84083919416,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:15:35",
+  "latency": 47322991000,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(primary key field value is zero)",
+  "bytes_sent": 126
+}
+{
+  "timestamp": "2023-07-03 22:18:15",
+  "latency": 57703627584,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:19:05",
+  "latency": 6131209,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 833
+}
+{
+  "timestamp": "2023-07-03 22:20:48",
+  "latency": 26708192584,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:21:25",
+  "latency": 1007750,
+  "code": 400,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "    {\n        \"Id\": \"6c051e51-9c64-49f7-a6ce-977cd7b2030a\",\n        \"CreatedAt\": \"2023-07-03T21:00:26.86107Z\",\n        \"UpdatedAt\": \"2023-07-03T21:00:26.861093Z\",\n        \"email\": \"IronMan@gmail.com\",\n        \"password\": \"Ironman\",\n        \"firstName\": \"Andréeeee\",\n        \"middleName\": \"\",\n        \"lastName\": \"Leblancccccc\"\n        \"sex\": \"M\"\n    },\n",
+  "bytes_received": 628,
+  "bytes_sent": 260
+}
+{
+  "timestamp": "2023-07-03 22:23:31",
+  "latency": 64015253917,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:29:56",
+  "latency": 40535490958,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:30:10",
+  "latency": 859042,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:30:11",
+  "latency": 725792,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:30:11",
+  "latency": 1251709,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:30:45",
+  "latency": 1092458,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:30:46",
+  "latency": 1474542,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:32:01",
+  "latency": 42080828708,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-03 22:32:35",
+  "latency": 1700708,
+  "code": 200,
+  "method": "GET",
+  "path": "/users",
+  "ip": "::1",
+  "bytes_received": 227,
+  "bytes_sent": 880
+}
+{
+  "timestamp": "2023-07-03 22:59:44",
+  "latency": 22082744500,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 20:32:48",
+  "latency": 1527083,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 510
+}
+{
+  "timestamp": "2023-07-04 20:37:56",
+  "latency": 901625,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 347,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:39:30",
+  "latency": 524875,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 510
+}
+{
+  "timestamp": "2023-07-04 20:39:42",
+  "latency": 2721875,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 126
+}
+{
+  "timestamp": "2023-07-04 20:40:00",
+  "latency": 3587459,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 347,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:40:37",
+  "latency": 13972283958,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 347,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:40:51",
+  "latency": 623750,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 469
+}
+{
+  "timestamp": "2023-07-04 20:44:36",
+  "latency": 8788000333,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 347,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:44:41",
+  "latency": 1750458,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 297
+}
+{
+  "timestamp": "2023-07-04 20:44:47",
+  "latency": 2631042,
+  "code": 400,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 347,
+  "bytes_sent": 295
+}
+{
+  "timestamp": "2023-07-04 20:45:43",
+  "latency": 2037750,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman 2023\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 352,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:45:50",
+  "latency": 1795208,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman 2024\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 352,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:45:53",
+  "latency": 1271292,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 650
+}
+{
+  "timestamp": "2023-07-04 20:45:56",
+  "latency": 1238417,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 650
+}
+{
+  "timestamp": "2023-07-04 20:46:24",
+  "latency": 1159084,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 650
+}
+{
+  "timestamp": "2023-07-04 20:47:21",
+  "latency": 1029416,
+  "code": 500,
+  "method": "PUT",
+  "path": "/users",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 20:47:39",
+  "latency": 17125,
+  "code": 404,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 275,
+  "bytes_sent": 92
+}
+{
+  "timestamp": "2023-07-04 20:51:43",
+  "latency": 231459,
+  "code": 404,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 275,
+  "bytes_sent": 92
+}
+{
+  "timestamp": "2023-07-04 20:54:03",
+  "latency": 2476500,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 20:54:16",
+  "latency": 688875,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 20:55:12",
+  "latency": 3911750,
+  "code": 201,
+  "method": "POST",
+  "path": "/events",
+  "ip": "::1",
+  "request": "    {\n        \"title\": \"Ironman 2024\",\n        \"description\": \"IronMan\"\n    }",
+  "bytes_received": 352,
+  "bytes_sent": 81
+}
+{
+  "timestamp": "2023-07-04 20:55:16",
+  "latency": 36733250,
+  "code": 200,
+  "method": "GET",
+  "path": "/events",
+  "ip": "::1",
+  "bytes_received": 207,
+  "bytes_sent": 218
+}
+{
+  "timestamp": "2023-07-04 20:55:48",
+  "latency": 1071625,
+  "code": 400,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "[\n    {\n        \"id\": \"a613ab5d-9cc1-45ca-ba1d-9bc8e4fcff2f\",\n        \"title\": \"Ironman 2024\",\n        \"description\": \"IronMan\"\n    }\n]",
+  "bytes_received": 410,
+  "bytes_sent": 290
+}
+{
+  "timestamp": "2023-07-04 20:56:09",
+  "latency": 1495792,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 21:27:31",
+  "latency": 1849074843917,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 21:32:45",
+  "latency": 39944023000,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 21:34:24",
+  "latency": 50725663000,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 21:35:29",
+  "latency": 3494580125,
+  "code": 500,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "error(transaction: exec: mismatched param and argument count)",
+  "bytes_sent": 149
+}
+{
+  "timestamp": "2023-07-04 21:56:59",
+  "latency": 2402500,
+  "code": 400,
+  "method": "PUT",
+  "path": "/events",
+  "ip": "::1",
+  "request": "[\n    {\n        \"id\": \"a613ab5d-9cc1-45ca-ba1d-9bc8e4fcff2f\",\n        \"description\": \"IronMan T\"\n    },\n    {\n        \"id\": \"a613ab5d-9cc1-45ca-ba1d-9bc8e4fcff2f\",\n        \"description\": \"IronMan TZ\"\n    },\n]\n",
+  "bytes_received": 484,
+  "bytes_sent": 279
+}
