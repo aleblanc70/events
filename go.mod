@@ -6,7 +6,6 @@ require (
 	github.com/iris-contrib/middleware/pg v0.0.0-20230704100615-6625745ba308
 	github.com/jackc/pgx/v5 v5.4.1
 	github.com/kataras/iris/v12 v12.2.0
-	github.com/kataras/pg v1.0.0
 )
 
 require (
@@ -32,6 +31,7 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kataras/blocks v0.0.7 // indirect
 	github.com/kataras/golog v0.1.9 // indirect
+	github.com/kataras/pg v1.0.1 // indirect
 	github.com/kataras/pgx-golog v0.0.0-20230624202157-16677d51b141 // indirect
 	github.com/kataras/pio v0.0.12 // indirect
 	github.com/kataras/sitemap v0.0.6 // indirect
